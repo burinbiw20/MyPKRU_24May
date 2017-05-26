@@ -6,4 +6,14 @@
     <string name="new_register">New Register</string>
     <string name="name">Name :</string>
 
+    <!--about Alert Dialog-->
+    <string name="titleHaveSpace">มีช่องว่าง</string>
+    <string name="messageHaveSpace">กรุณากรอกทุกช่องคะ</string>
+    <string name="title์NoImage">ยังไม่เลือกรูป</string>
+    <string name="messageNoImage">กรุณาเลือกรูปคะ</string>
+    <string name="titleUserFalse">ไม่มี User นี้</string>
+    <string name="messageUserFalse">ไม่มี User นี้ในฐานข้อมูลของเรา</string>
+    <string name="titlePassword">Password ผิด</string>
+    <string name="messagePassword">กรุณาลองใหม่ Password ผิด</string>
+
 </resources>
